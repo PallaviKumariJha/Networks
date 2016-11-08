@@ -1,0 +1,20 @@
+﻿Language: python 
+version : 2.7.0
+
+Running the program
+
+./run.sh <arg1> <arg2> <arg3>
+
+eg: 
+1)
+
+1$ sh run.sh ./run.sh b70d1f4027923e3342015fb5801800e517a400000101080affff457e005467aa6865790a
+192.168.56.32 192.168.56.1
+
+or
+
+2)
+
+1$ ./run.sh
+ b70d1f4027923e3342015fb5801800e517a400000101080affff457e005467aa6865790a
+192.168.56.32 192.168.56.15 
